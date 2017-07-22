@@ -1,4 +1,0 @@
-connect to instance ssh -i NN_JVK_KEY_PAIR.pem ec2-user@54.186.97.77
-
-
-Steps: Create instance, update stuff, git clone machine learning scripts, add in images, run script
